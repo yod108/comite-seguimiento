@@ -1,6 +1,7 @@
 Debe crear la base de datos con el nombre comite-seguimiento y cambiar el puerto 3307 en el archivo .env
-***********************************
-Pasod de instalacion en el proyecto: 
+**************************************
+Pasos de instalacion en el proyecto: 
+**************************************
 
 1. Descargar archivo zip.
 2. composer install
